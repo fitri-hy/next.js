@@ -65,7 +65,7 @@ export default function PriceSection() {
 						  <span class="text-5xl font-bold tracking-tight text-gray-900">850k</span>
 						  <span class="text-sm font-semibold leading-6 tracking-wide text-gray-600">IDR</span>
 						</p>
-						<a data-aos="fade-up" target="_blank" href="https://wa.me/6281525977595" class="drop-shadow-md mt-10 block w-full rounded-md bg-indigo-600 px-3 py-2 text-center text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">
+						<a data-aos="fade-up" target="_blank" href="https://wa.me/6281525977595" class="drop-shadow-md mt-10 block w-auto rounded-md bg-indigo-600 px-3 py-2 text-center text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">
 						Get it Now
 						</a>
 						<p data-aos="fade-up" class="mt-6 text-xs leading-5 text-gray-600">Invoices and receipts available for easy company reimbursement</p>
