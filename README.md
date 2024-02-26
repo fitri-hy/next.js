@@ -4,7 +4,7 @@
 <pre>
   git clone
   npm install
-  npm run
+  npm run dev
 </pre>
 
 Demo: <a href="https://fitrihy.vercel.app/">View Demo</a>
